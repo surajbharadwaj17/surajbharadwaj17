@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **data engineering, design patterns, algorithms**
 
-- 📫 How to reach me **soorajbh@buffalo.edu**
+- 📫 How to reach me **surajbharadwaj17@gmail.com**
 
 - ⚡ Fun fact **Biggest fan of One Piece**
 
