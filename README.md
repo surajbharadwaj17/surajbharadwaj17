@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [soccer-updates](https://github.com/surajbharadwaj17/soccer-updates/)
 
-- 💬 Ask me about **data engineering, design patterns, algorithms**
+- 💬 Ask me about **data engineering, data science, system design**
 
 - 📫 How to reach me **surajbharadwaj17@gmail.com**
 
