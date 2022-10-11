@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajbharadwaj17" alt="surajbharadwaj17" /></a> </p>
 
-- 🔭 I’m currently working on [soccer-updates](https://github.com/surajbharadwaj17/soccer-updates/tree/project-init)
+- 🔭 I’m currently working on [soccer-updates](https://github.com/surajbharadwaj17/soccer-updates/)
 
 - 💬 Ask me about **data engineering, design patterns, algorithms**
 
