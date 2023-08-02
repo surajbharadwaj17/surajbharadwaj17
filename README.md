@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sooraj Bharadwaj</h1>
-<h3 align="center">A passionate software engineer who loves solving real word data problems. I am currently a graduate student majoring in Data Science and Applications with 3+ years of experience in Software Development, Data Science/Engineering.</h3>
+<h3 align="center">A passionate software engineer who loves solving real word data problems. I am currently a graduate student majoring in Data Science and Applications with 4+ years of experience in Software Development, Data Science/Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbharadwaj17&label=Profile%20views&color=0e75b6&style=flat" alt="surajbharadwaj17" /> </p>
 
